@@ -1,8 +1,12 @@
-.hg/*
-build/*
-.directory
-*__pycache__*/*
 
 *~
+~*
+
+.hg/*
+
+dist/*
+build/*
+
+*.py[cod]
 *.swp
-*.py[cowd]
+
